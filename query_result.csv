@@ -1,0 +1,4 @@
+sale_id,customer_name,product_name,category,quantity,price,city,sale_date,discount
+2,Priya Sharma,Mouse,Electronics,5,800,Bangalore,03-09-2026,10
+6,Ravi Teja,Headphones,Electronics,2,2000,Bangalore,12-09-2026,null
+9,Meena Das,Desk,Furniture,2,2500,Bangalore,20-09-2026,null
